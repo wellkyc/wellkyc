@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi,%20I'm%20wellkyc&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%E2%80%A2%2060%20languages%20and%20counting&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Hi,%20I'm%20wellkyc&fontSize=48&fontColor=f0f6fc&animation=fadeIn&fontAlignY=38&desc=Polyglot%20Developer%20%E2%80%A2%2060%20languages%20and%20counting&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://github.com/wellkyc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!%22);console.log(%22Hello%2C+World!%22);fmt.Println(%22Hello%2C+World!%22);PRINT+%22HELLO%2C+WORLD!%22+'+QBasic;From+Assembly+to+Zig" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=600&lines=print(%22Hello%2C+World!%22);console.log(%22Hello%2C+World!%22);fmt.Println(%22Hello%2C+World!%22);PRINT+%22HELLO%2C+WORLD!%22+'+QBasic;From+Assembly+to+Zig" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wellkyc&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/wellkyc?style=for-the-badge&color=blueviolet&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=wellkyc&style=for-the-badge&color=238636&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/wellkyc?style=for-the-badge&color=238636&logo=github" />
 </p>
 
 ---
@@ -142,20 +142,12 @@ class Developer:
 ### GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wellkyc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellkyc&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wellkyc&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellkyc&layout=compact&langs_count=10&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=wellkyc&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wellkyc&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wellkyc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=wellkyc&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=2EA043&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 </p>
 
 ---
@@ -177,5 +169,5 @@ class Developer:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=120&section=footer" />
 </p>
